@@ -3991,7 +3991,7 @@ input[type="button"].btn-block {
 .navbar-dark .navbar-nav .active > .nav-link,
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .nav-link.active {
-  color: #000000; }
+  color: #1f1e1e; }
 
 .navbar-dark .navbar-toggler {
   color: rgba(0,255,0,0.9);
@@ -5735,6 +5735,9 @@ button.bg-dark:hover,
 button.bg-dark:focus {
   background-color: #131316 !important; }
 
+.bg-shade {
+    background-color: #202020 !important; }
+  
 .bg-white {
   background-color: #fff !important; }
 
@@ -8495,7 +8498,7 @@ a.text-secondary:hover, a.text-secondary:focus {
   color: #00ff00 !important; }
 
 a.text-success:hover, a.text-success:focus {
-  color: #0e6c42 !important; }
+  color: #ff0000 !important; }
 
 .text-info {
   color: #2983fe !important; }
