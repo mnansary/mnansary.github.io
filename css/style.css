@@ -8498,7 +8498,7 @@ a.text-secondary:hover, a.text-secondary:focus {
   color: #00ff00 !important; }
 
 a.text-success:hover, a.text-success:focus {
-  color: #ff0000 !important; }
+  color: #0066ff !important; }
 
 .text-info {
   color: #2983fe !important; }
@@ -9231,6 +9231,6 @@ body {
   width: 40px; }
 
 .parallax-window {
-    min-height: 400px;
+    min-height: 500px;
     background: transparent;
 }
